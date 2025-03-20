@@ -1,0 +1,6 @@
+[book]
+authors = ["IGN-Styly"]
+language = "en"
+multilingual = false
+src = "src"
+title = "GE Engine Specification"
